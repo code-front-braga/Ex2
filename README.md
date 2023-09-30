@@ -1,2 +1,7 @@
-# Ex2
- Estudo (Analisador de Números
+# ANALIZADOR DE NÚMEROS
+
+ * Aprendendo a utilizar arrays;
+ * Uso do for;
+ * CreateElement;
+ * Funções;
+ * Condições;
